@@ -1,6 +1,5 @@
 # eim-course
 
-## Github config
 ## 1. ⚙️ Initial Setup: Create the Repository on GitHub
 1.  Go to **GitHub** and log in.
 2.  Click the **'+'** icon in the top right corner and select **'New repository'**.
@@ -10,9 +9,7 @@
 6.  Crucially, check the boxes to **'Add a README file'**, **'Add .gitignore'** (select **Android** from the template dropdown), and **'Choose a license'**.
 7.  Click **'Create repository'**.
 
-
 ## 2. 💻 Project Creation and Cloning in Android Studio
-
 Now, you'll use Android Studio to create a local project and link it to the remote GitHub repository.
 
 ### 2.1 Clone the Remote Repository
